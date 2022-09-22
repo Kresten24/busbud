@@ -1,0 +1,5 @@
+.center{
+    align-items: center;
+    --bg-color: rgba(48, 176, 255, 0.1);
+    --color: #20415A;
+}

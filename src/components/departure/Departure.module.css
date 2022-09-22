@@ -1,0 +1,50 @@
+.flex{
+    display: flex;
+}
+.center{
+    align-items: center;
+}
+li{
+    list-style: none;
+}
+
+.push{
+    margin-left: auto;
+}
+.m-1{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.mr-1{
+    margin-right: 8px;
+}
+.m-2{
+    margin-top: 16px;
+}
+.mr-2{
+    margin-right: 16px;
+}
+.ml-2{
+    margin-left: 16px;
+}
+.m-3{
+    margin-top: 20px;
+}
+.ml-3{
+    margin-left: 20px;
+}
+.m-05{
+    margin-top: 4px
+}
+.m-025{
+    margin-top: 2px;
+}
+.mr-025{
+    margin-right: 2px;
+}
+.mr-10{
+    margin-right: 10% ;
+}
+.ml-10{
+    margin-left: 10% ;
+}
